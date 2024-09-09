@@ -1,5 +1,9 @@
 # Laravel Project
 
+Two page in the project : The Me page and the projects page
+
+Blade Component use for the navigation between this two page
+
 ## Description
 
 This project is a Laravel application designed to showcase best practices in web development using the Laravel framework. It includes modern features and utilizes advanced development tools to ensure a smooth and efficient development experience.

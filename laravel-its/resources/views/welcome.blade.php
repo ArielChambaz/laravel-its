@@ -11,6 +11,9 @@
     <div class="min-h-full">
         <x-navigation />
     </div>
+    <div>
+        <x-me />
+    </div>
     <script src="{{ asset('js/app.js') }}"></script>
 </body>
 </html>

@@ -1,8 +1,6 @@
 # Laravel Project
 
-Two page in the project : The Me page and the projects page
-
-Blade Component use for the navigation between this two page
+The Laravel project includes two main pages: the "Me" page and the "Projects" page. These two pages are accessible through a Blade component, which is used to handle the navigation between them. The "Me" page is designed to present personal information or specific details about the user, while the "Projects" page showcases completed or ongoing projects. The Blade component plays a key role in the project’s structure, enabling smooth navigation between these two sections. By utilizing Blade, transitions between pages are streamlined, enhancing the user experience, while ensuring that the code remains modular and reusable. This architecture supports clean, maintainable, and scalable code development
 
 ![Screenshot from 2024-09-09 16-36-41](https://github.com/user-attachments/assets/381627a1-21a2-411b-bc0b-d9c034ecc685)
 

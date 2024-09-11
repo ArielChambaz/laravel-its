@@ -8,8 +8,7 @@ The Laravel project includes two main pages: the "Me" page and the "Projects" pa
 
 I Have had a Controller that give Fake data to my projects view and it look like this
 
-![Uploading image.png…]()
-
+![Screenshot from 2024-09-11 15-10-14](https://github.com/user-attachments/assets/5dfae6e5-ad92-4559-aefe-1140b136f0ef)
 
 ## Description
 

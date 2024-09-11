@@ -6,6 +6,11 @@ The Laravel project includes two main pages: the "Me" page and the "Projects" pa
 
 ![Screenshot from 2024-09-09 16-37-10](https://github.com/user-attachments/assets/d74d636b-c232-4698-8eff-566b51414f70)
 
+I Have had a Controller that give Fake data to my projects view and it look like this
+
+![Uploading image.png…]()
+
+
 ## Description
 
 This project is a Laravel application designed to showcase best practices in web development using the Laravel framework. It includes modern features and utilizes advanced development tools to ensure a smooth and efficient development experience.

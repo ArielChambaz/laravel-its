@@ -1,26 +1,32 @@
 <?php
-
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Faker\Factory as Faker;
+use App\Models\Project;
 
 class ProjectController extends Controller
 {
     public function index()
     {
-        $faker = Faker::create();
-
-        // Générer des faux projets avec Faker
-        $projects = [];
-        for ($i = 0; $i < 10; $i++) {
-            $projects[] = [
-                'title' => $faker->sentence(3),
-                'description' => $faker->paragraph,
-            ];
-        }
+        // Récupérer tous les projets depuis la base de données
+        $projects = Project::all();
 
         // Passer les projets à la vue
         return view('projects', ['projects' => $projects]);
+    }
+
+    public function store(Request $request)
+    {
+        $request->validate([
+            'title' => 'required|string|max:255',
+            'description' => 'required|string',
+        ]);
+
+        Project::create([
+            'title' => $request->input('title'),
+            'description' => $request->input('description'),
+        ]);
+
+        return redirect('/projects');
     }
 }

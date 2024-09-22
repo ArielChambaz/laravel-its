@@ -13,3 +13,8 @@ Route::post('/projects', [ProjectController::class, 'store']);
 Route::get('/add-projects', function () {
     return view('add-projects');
 });
+
+Route::get('/model-factories', function () {
+    $articles = \App\Models\Article::all();
+    return view('model-factories', compact('articles'));
+});

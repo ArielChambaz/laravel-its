@@ -10,6 +10,10 @@ I Have had a Controller that give Fake data to my projects view and it look like
 
 ![Screenshot from 2024-09-11 15-10-14](https://github.com/user-attachments/assets/5dfae6e5-ad92-4559-aefe-1140b136f0ef)
 
+Now I have improve my controller and a Model and an eloquent orm to manage my projects view and i can add some projects with a forms. Like in the video below
+
+[Screencast from 19-09-2024 16:12:27.webm](https://github.com/user-attachments/assets/0f418a44-44c1-45a4-b4ca-899b8fe4e65c)
+
 ## Description
 
 This project is a Laravel application designed to showcase best practices in web development using the Laravel framework. It includes modern features and utilizes advanced development tools to ensure a smooth and efficient development experience.

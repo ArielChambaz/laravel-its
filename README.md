@@ -14,6 +14,10 @@ Now I have improve my controller and a Model and an eloquent orm to manage my pr
 
 [Screencast from 19-09-2024 16:12:27.webm](https://github.com/user-attachments/assets/0f418a44-44c1-45a4-b4ca-899b8fe4e65c)
 
+Adding a page Models Factories to show how a model factories can look like, i also use a seeder to fake the data of my article
+
+![Screenshot from 2024-09-22 15-46-40](https://github.com/user-attachments/assets/af5c4474-ea03-4541-941b-39c5754faa69)
+
 ## Description
 
 This project is a Laravel application designed to showcase best practices in web development using the Laravel framework. It includes modern features and utilizes advanced development tools to ensure a smooth and efficient development experience.

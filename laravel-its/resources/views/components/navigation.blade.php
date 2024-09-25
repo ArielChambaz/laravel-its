@@ -28,6 +28,7 @@
                         <a href="/projects" class="{{ Request::is('projects') ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white' }} rounded-md px-3 py-2 text-sm font-medium">Projects</a>
                         <a href="/add-projects" class="{{ Request::is('add-projects') ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white' }} rounded-md px-3 py-2 text-sm font-medium">Add Projects</a>
                         <a href="/model-factories" class="{{ Request::is('model-factories') ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white' }} rounded-md px-3 py-2 text-sm font-medium">Model factories</a>
+                        <a href="/n-1" class="{{ Request::is('n-1') ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white' }} rounded-md px-3 py-2 text-sm font-medium">N+1</a>
                     </div>
                 </div>
             </div>

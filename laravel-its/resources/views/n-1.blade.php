@@ -12,7 +12,7 @@
         <x-navigation />
     </div>
     <div class="container mx-auto px-4">
-        <h1 class="text-2xl font-bold mb-4">N+1 Demo</h1>
+        <h1 class="text-2xl font-bold mb-4 mt-4">N+1 Demo</h1>
         
         @if($articlesWithoutEagerLoading->isNotEmpty())
             <h2 class="text-xl font-bold mb-4">Without Eager Loading (N+1 Problem)</h2>

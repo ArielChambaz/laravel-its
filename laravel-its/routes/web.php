@@ -22,3 +22,7 @@ Route::get('/model-factories', function () {
 });
 
 Route::get('/n-1', [ArticleController::class, 'index']);
+
+Route::get('/ui-exemple', function () {
+    return view('ui-exemple');
+});

@@ -14,7 +14,7 @@
     <div class="flex flex-col items-center bg-gray-100 w-full h-screen">
         <form action="/projects" method="POST" class="w-full max-w-lg">
             @csrf
-            <div class="mb-4">
+            <div class="mb-4 mt-4">
                 <label for="title" class="block text-gray-700 text-sm font-bold mb-2">Title:</label>
                 <input type="text" name="title" id="title" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" required>
             </div>

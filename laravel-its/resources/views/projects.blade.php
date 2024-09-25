@@ -11,7 +11,7 @@
     <div class="min-h-full">
         <x-navigation />
     </div>
-    <div>
+    <div class="mt-4">
         @foreach ($projects as $project)
             <x-project-description :title="$project['title']" :description="$project['description']" />
         @endforeach

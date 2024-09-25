@@ -26,6 +26,10 @@ Adding a page UI exemple to show some exemple of buttons, forms and cards
 
 ![Screenshot from 2024-09-25 14-18-50](https://github.com/user-attachments/assets/14b139a4-2ce3-4fda-8a92-3e60a6a4551f)
 
+Adding a search bar demo to search throw all the articles
+
+[Screencast from 25-09-2024 14:45:01.webm](https://github.com/user-attachments/assets/699d5e17-2076-40db-b30f-78c195da22ff)
+
 ## Description
 
 This project is a Laravel application designed to showcase best practices in web development using the Laravel framework. It includes modern features and utilizes advanced development tools to ensure a smooth and efficient development experience.

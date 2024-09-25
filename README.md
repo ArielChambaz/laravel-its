@@ -20,7 +20,7 @@ Adding a page Models Factories to show how a model factories can look like, i al
 
 Adding a page N+1 to show an exemple of the n+1 problem
 
-![Screenshot from 2024-09-25 14-03-45](https://github.com/user-attachments/assets/f685dfa1-f77d-4dc3-aa76-80b08932bfd5)
+![Screenshot from 2024-09-25 14-05-16](https://github.com/user-attachments/assets/5495a10f-1426-4368-a835-182597522983)
 
 ## Description
 

@@ -22,6 +22,10 @@ Adding a page N+1 to show an exemple of the n+1 problem
 
 ![Screenshot from 2024-09-25 14-05-16](https://github.com/user-attachments/assets/5495a10f-1426-4368-a835-182597522983)
 
+Adding a page UI exemple to show some exemple of buttons, forms and cards
+
+![Screenshot from 2024-09-25 14-18-50](https://github.com/user-attachments/assets/14b139a4-2ce3-4fda-8a92-3e60a6a4551f)
+
 ## Description
 
 This project is a Laravel application designed to showcase best practices in web development using the Laravel framework. It includes modern features and utilizes advanced development tools to ensure a smooth and efficient development experience.

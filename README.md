@@ -18,6 +18,10 @@ Adding a page Models Factories to show how a model factories can look like, i al
 
 ![Screenshot from 2024-09-22 15-46-40](https://github.com/user-attachments/assets/af5c4474-ea03-4541-941b-39c5754faa69)
 
+Adding a page N+1 to show an exemple of the n+1 problem
+
+![Screenshot from 2024-09-25 14-03-45](https://github.com/user-attachments/assets/f685dfa1-f77d-4dc3-aa76-80b08932bfd5)
+
 ## Description
 
 This project is a Laravel application designed to showcase best practices in web development using the Laravel framework. It includes modern features and utilizes advanced development tools to ensure a smooth and efficient development experience.

@@ -26,3 +26,5 @@ Route::get('/n-1', [ArticleController::class, 'index']);
 Route::get('/ui-exemple', function () {
     return view('ui-exemple');
 });
+
+Route::get('/search-bar', [ArticleController::class, 'search'])->name('articles.search');
